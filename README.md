@@ -112,9 +112,3 @@ The trained model is saved using pickle and can be reused for deployment.
 - Deploy as Flask/FastAPI app
 - Build frontend dashboard
 
----
-
-## 👨‍💻 Author
-
-Bhanu Prasad  
-Machine Learning Enthusiast | Backend Developer
